@@ -1,0 +1,28 @@
+{
+  "name": "practice_noom",
+  "version": "1.0.0",
+  "description": "Zoom clone (a.k.a. noom) using NodeJS, WebRTC and Websockets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyoonkim48/practice_noom.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "bugs": {
+    "url": "https://github.com/seyoonkim48/practice_noom/issues"
+  },
+  "homepage": "https://github.com/seyoonkim48/practice_noom#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
